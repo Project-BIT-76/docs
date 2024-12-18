@@ -1,0 +1,1 @@
+from peak_hour_model.model.model import PredictionModel
